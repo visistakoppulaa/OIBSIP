@@ -1,0 +1,6 @@
+{
+  "name": "Login Authentication System",
+  "description": "Full-stack authentication system with secure password hashing, session management, user registration validation, protected dashboard, and interactive security features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
