@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow - Modern Interactive To-Do Web App",
+  "description": "An interactive, elegant task management app featuring pending/completed task lists, inline editing, priority badges, category tags, timestamps, search, productivity stats, and localStorage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
