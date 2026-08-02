@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A feature-rich arithmetic and scientific calculator built with a custom no-eval parser, CSS Grid layout, multiple designer themes, calculation tape history, keyboard navigation, and full documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
