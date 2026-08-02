@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-serif-display {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+  .font-editorial {
+    font-family: 'Newsreader', Georgia, serif;
+  }
+  .font-classic {
+    font-family: 'Cinzel', serif;
+  }
+  .font-sans-body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+  .font-tech-mono {
+    font-family: 'Space Mono', monospace;
+  }
+  .bg-geom-dark {
+    background-color: #0F1115;
+  }
+  .bg-geom-panel {
+    background-color: #16191F;
+  }
+  .bg-geom-sidebar {
+    background-color: #121418;
+  }
+  .border-geom {
+    border-color: #23262D;
+  }
+  .text-geom-accent {
+    color: #E2FF44;
+  }
+  .bg-geom-accent {
+    background-color: #E2FF44;
+  }
+  .border-geom-accent {
+    border-color: #E2FF44;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: #0F1115;
+  color: #E0E0E0;
+}
+
+/* Geometric Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0F1115;
+}
+::-webkit-scrollbar-thumb {
+  background: #23262D;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #E2FF44;
+}
+
